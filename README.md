@@ -1,9 +1,14 @@
 ##Hardware list:
 Car Frame
+
 Raspberry Pi 3 Model B or Pi4
+
 L298N Dual H-Bridge Motor Driver(if you are using DC motors)
+
 Ultrasonic Sensor (HC-SR04)
+
 Pi Camera Module (or any USB cam will work fine)
+
 Lipo battery 
 
 
