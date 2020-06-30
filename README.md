@@ -13,6 +13,9 @@
 *Lipo battery 
 
 
+[For detailed design](http://www.jayeshg.com/self-driving-car/)
+
+
 ## prerequisites
 
 *OpenCV 4
@@ -69,3 +72,7 @@ sudo python3 ai_drive.py -localhost - model_data_path
 
 ```
 
+
+
+
+[For detailed information](http://www.jayeshg.com/self-driving-car/)
