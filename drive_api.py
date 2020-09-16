@@ -10,7 +10,6 @@ from time import sleep
 
 class PostHandler(tornado.web.RequestHandler):
 
-    # I don't understand decorators, but this fixed my "can't set attribute" error
     @property
     def settings(self):
         return self._settings
